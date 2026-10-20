@@ -30,28 +30,17 @@ Building things that connect the screen to the real world.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Featured projects
+## 🚀 Projects
 
-| Project | What it is | Tech | Links |
-|---|---|---|---|
-| 🧑‍💻 **Personal Portfolio** | My personal portfolio website | HTML, CSS, JS | [Live](https://shalbin-personal-portfolio.vercel.app) · [Code](https://github.com/shalbinshaji64-svg/Shalbin-personal-portfolio) |
-| 🏆 **Arts Fest Live Results** | Live results and house leaderboard site for the St. Thomas HSS Nadavayal Arts Fest 2026 | HTML, CSS, JS, Firebase (Hosting, Auth, Firestore) | [Live](#) · [Code](#) |
-| 🔥 **AIDE Fire-Fighting Rover** | 4-wheel rover that detects fire and sprays water | ESP32, motor driver, water pump, Arduino IDE | [Code](#) · [Demo video](#) |
-| 💧 **AURA Showcase** | Product showcase website built for a coding competition | HTML, CSS, JS | [Live](#) · [Code](#) |
-| 🏢 **Orizon Studio** | Multi-page real estate site with a glassmorphism, futuristic look | HTML, CSS, JS | [Live](#) · [Code](#) |
+| Project | What it is | Status |
+|---|---|---|
+| 🧑‍💻 **Personal Portfolio** | My portfolio website (HTML, CSS, JavaScript) | 🔨 In progress · [Live](https://shalbin-personal-portfolio.vercel.app) |
+| 🔥 **AIDE Fire-Fighting Rover** | ESP32 rover that detects fire and sprays water | 💡 Concept |
 
-> Replace each `#` with your real link (GitHub Pages / Firebase URL and repo link).
-
-## 📈 GitHub stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shalbinshaji64-svg&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shalbinshaji64-svg&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+Each project will get a live demo and its own repo.
 
 ## 🎯 Currently
-- Finishing and documenting my projects
+- Building new projects to upload here
 - Strengthening Maths and Python
 - Learning German (A2 → B1)
 
