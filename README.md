@@ -55,9 +55,5 @@ Building things that connect the screen to the real world.
 - Strengthening Maths and Python
 - Learning German (A2 → B1)
 
-## 📫 Contact
-- 📧 your-email@example.com
-- 💼 LinkedIn: add link
-
 ---
 <div align="center">⭐ Thanks for visiting</div>
